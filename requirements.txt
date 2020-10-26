@@ -1,1 +1,3 @@
 selenium
+requests_html
+pandas
